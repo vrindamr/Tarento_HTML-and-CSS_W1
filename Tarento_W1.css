@@ -1,0 +1,56 @@
+body {
+  margin: 0%;
+}
+#blueheading1 {
+  color: white;
+  text-align: center;
+  padding: 1%;
+}
+#whiteheading2 {
+  color: black;
+  text-align: center;
+  padding: 1%;
+}
+#p {
+  background-color: white;
+  color: black;
+  padding-left: 300px;
+  padding-right: 300px;
+}
+#div1 {
+  background-color: darkblue;
+  padding: 1%;
+  text-align: center;
+}
+#div2 {
+  background-color: white;
+  padding: 1%;
+  text-align: center;
+}
+#div3 {
+  background-color: red;
+  padding: 1%;
+}
+#image1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 1%;
+}
+#pindiv3 {
+  background-color: red;
+  color: white;
+  text-align: center;
+  padding-left: 300px;
+  padding-right: 300px;
+}
+ol {
+  color: white;
+  padding: 1%;
+  text-align: center;
+  padding-left: 300px;
+  padding-right: 300px;
+}
+#li {
+  padding: 1%;
+}
